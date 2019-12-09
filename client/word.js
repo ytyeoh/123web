@@ -1,7 +1,7 @@
 // header
-var brand = "Sogo Hotel"
+var brand = "Mcdonalds"
 var menu = {
-  menu1:'Home', menu2: 'Rooms', menu3: 'Gallery', menu4:'Attrations', menu5: 'Tour Services', menu6: 'Contact'
+  menu1:'Home', menu2: 'Rooms', menu3: 'Ivan', menu4:'Attrations', menu5: 'Tour Services', menu6: 'Contact'
 }
 
 // background images
@@ -20,22 +20,16 @@ var captionH2b = 'Rooms &amp; Suites'
 var caption2a= "awsome room with clean service"
 var rooms = {
   room1: {
-    image: "img_1.jpg", type: 'vivip Room double', price: 'RM99999 / per night', facilities:{
-        Parking: 'Yes', Internet: 'Yes', Kitchen: 'Yes', Bedroom: '2', Bathroom: '1', 'Living Area': 'Yes', Amenities: 'fan, iron, clothes rack', Pets: 'not allow', Accessibility: 'Entire unit located on ground floor', Outdoors: 'BBQ facilities', Miscellaneous: 'Air conditioning, Non-smoking throughout, Family rooms'
-    }
+    image: "img_1.jpg", title: 'Open Source', price: 'FREE / monthly', desc: 'cece'
   },
   room2: {
-    image: "img_2.jpg", type: 'Double Room', price: 'RM120 / per night', facilities:{
-        Parking: 'Yes', Internet: 'Yes', Kitchen: 'Yes', Bedroom: '2', Bathroom: '1', 'Living Area': 'Yes', Amenities: 'fan, iron, clothes rack', Pets: 'not allow', Accessibility: 'Entire unit located on ground floor', Outdoors: 'BBQ facilities', Miscellaneous: 'Air conditioning, Non-smoking throughout, Family rooms'
-    }
+    image: "img_2.jpg", title: 'Normal Hosting', price: 'RM100 / per monthly', desc: 'cece'
   },
   room3:{
-    image: "img_3.jpg", type: 'Family Room', price: 'RM250 / per night', facilities:{
-        Parking: 'Yes', Internet: 'Yes', Kitchen: 'Yes', Bedroom: '2', Bathroom: '1', 'Living Area': 'Yes', Amenities: 'fan, iron, clothes rack', Pets: 'not allow', Accessibility: 'Entire unit located on ground floor', Outdoors: 'BBQ facilities', Miscellaneous: 'Air conditioning, Non-smoking throughout, Family rooms'
-    }
+    image: "img_3.jpg", title: 'Family Room', price: 'RM250 / per night', desc: 'cece'
   }
 }
-
+var call = 'Contact Now'
 // section3
 var caption3a = 'Hotel provice gym, swiiming pool'
 var galeryImages = {
@@ -87,3 +81,8 @@ var mobile = "0164286173"
 
 // footer
 var facebookUrl = 'https://www.facebook.com/kikiatour'
+
+
+
+
+
