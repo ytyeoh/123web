@@ -29,6 +29,7 @@ var rooms = {
     image: "img_3.jpg", title: 'Family Room', price: 'RM250 / per night', desc: 'cece'
   }
 }
+
 var call = 'Contact Now'
 // section3
 var caption3a = 'Hotel provice gym, swiiming pool'
